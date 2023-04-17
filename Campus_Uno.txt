@@ -1,0 +1,46 @@
+************************************************************
+CAMPUS 1
+
+------------------------------------------------------------
+server 0
+Direccion IP: 172.16.34.138
+Vlan configurada: VLAN 40
+Servicio de red: HTTP, TFTP, DNS, SYSLOG, NTP, EMAIL, FTP
+Capa a la que pertenece: Capa de aplicacion
+Campus o sucursal: Campus 1, Sucursal oriente
+-----------------------------------------------------------
+Laptop procesos 
+Direccion: 172.16.33.20  
+Vlan configurada: VLAN 20
+Servicio de red: NO APLICA
+Capa a la que pertenece: Capa de acceso 
+Campus o sucursal: Campus 1, Sucursal oriente
+----------------------------------------------------------
+Impresora
+Direccion: 172.16.34.161
+Vlan configurada: VLAN 50
+Servicio de red: NO APLICA
+Capa a la que pertenece: 
+Campus o sucursal: Campus 1, Sucursal oriente
+----------------------------------------------------------
+SWITCH 0
+Direccion: NO APLICA 
+Vlan configurada: VLAN 20, 40, 50, 80
+Servicio de red: NO APLICA
+Capa a la que pertenece: Capa de distribucion 
+Campus o sucursal: Campus 1, Sucursal oriente
+---------------------------------------------------------
+SWITCH MULTICAPA
+Direccion: 172.16.34.170
+Vlan configurada: VLAN 20, 40, 50, 80
+Servicio de red: NO APLICA
+Capa a la que pertenece: Capa de distribucion
+Campus o sucursal: Campus 1, Sucursal oriente
+---------------------------------------------------------
+ROUTER ORIENTE
+Direccion: 172.16.34.169
+Vlan configurada: VLAN 20, 40, 50, 80
+Servicio de red: NO APLICA
+Capa a la que pertenece: Capa de acceso
+Campus o sucursal: Sucursal oriente
+----------------------------------------------------------

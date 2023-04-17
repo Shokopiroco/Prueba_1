@@ -1,0 +1,45 @@
+**********************************************************
+SECTOR_OUTSOURCING
+
+ROUTER ORIENTE
+Direccion: ACAD:DE:FE:10::1/64
+Vlan configurada: VLAN 10, 20, 30 MENCIONADAS 
+Servicio de red: NO APLICA
+Capa a la que pertenece: 
+Campus o sucursal: Sucursal oriente, SECTOR_OUTSOURCING
+-----------------------------------------------------------
+ROUTER MATRIZ
+Direccion: ACAD:DE:FE:20::1/64
+Vlan configurada: VLAN 10, 20, 30 MENCIONADAS 
+Servicio de red: NO APLICA
+Capa a la que pertenece: 
+Campus o sucursal: Sucursal matriz, SECTOR_OUTSOURCING
+-----------------------------------------------------------
+PC OUTSOURCING 1
+Direccion: ACAD:DE:FE:10::10/64
+Vlan configurada: NO APLICA
+Servicio de red: NO APLICA
+Capa a la que pertenece: CAPA DE ACCESO 
+Campus o sucursal: SECTOR_OUTSOURCING
+-----------------------------------------------------------
+PC OUTSOURCING 2
+Direccion: ACAD:DE:FE:20::20/64
+Vlan configurada: NO APLICA
+Servicio de red: NO APLICA
+Capa a la que pertenece: CAPA DE ACCESO 
+Campus o sucursal: SECTOR_OUTSOURCING
+-----------------------------------------------------------
+SWITCH 1
+Direccion: NO APLICA
+Vlan configurada: VLAN 100
+Servicio de red: NO APLICA
+Capa a la que pertenece: CAPA DE DISTRIBUCION 
+Campus o sucursal: SECTOR_OUTSOURCING
+-----------------------------------------------------------
+SWITCH 2
+Direccion: NO APLICA
+Vlan configurada: VLAN 100
+Servicio de red: NO APLICA
+Capa a la que pertenece: CAPA DE DISTRIBUCION 
+Campus o sucursal: SECTOR_OUTSOURCING
+**********************************************************
